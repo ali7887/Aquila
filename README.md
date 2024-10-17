@@ -1,0 +1,1 @@
+# WordPress Theme - My-Simple-theme test
