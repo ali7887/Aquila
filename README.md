@@ -1,1 +1,1 @@
-# my-simple-theme
+# Aquila
